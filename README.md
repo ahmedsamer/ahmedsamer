@@ -81,5 +81,3 @@ Here are some of the projects I'm proud of:
 <a href="https://github.com/ahmedsamer">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </a>
-
-> "Build systems you can sleep through." 
