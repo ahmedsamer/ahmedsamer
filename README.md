@@ -82,4 +82,4 @@ Here are some of the projects I'm proud of:
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </a>
 
-> "Infrastructure should be boring, because boring means reliable." 
+> "Build systems you can sleep through." 
